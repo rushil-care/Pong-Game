@@ -7,7 +7,7 @@ Pong Game using HTML 5 and Canvas
 
 ## Features:
 
--   Computer Bot [A.I] player on right side to beat
+-   Computer Bot [AI] player on right side to beat
 -   Variable ball velocity for different angles to strike
 -   Simple HTML and JavaScript Code
 
