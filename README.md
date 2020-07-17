@@ -14,3 +14,7 @@ Pong Game using HTML 5 and Canvas
 ## Rules:
 
 -   First one to score 5 points wins the game
+
+## Game Link:
+
+<p><a href="https://rushil-care.github.io/Pong-Game/">Click here to play<a/></p>
